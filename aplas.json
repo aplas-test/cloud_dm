@@ -21,7 +21,28 @@
       "months_to_renew_support": "14",
       "sme_email": "Jo.Talkington@memento.net.au",
       "vendor_phone": "+7 832 959 4879",
-      "investment_number": "407"
+      "investment_number": "407",
+      "integrations": [
+        {
+          "id": "int-248",
+          "name": "INT-248",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+          "sourceApplicationId": "cloud_dm",
+          "targetApplicationId": "veribet",
+          "logical_server": "CLOUD-A2A",
+          "status_color": "#00FF00",
+          "pattern": "Scatter Gather",
+          "golive_date": "18/12/16",
+          "sme_name": "Guenna Kix",
+          "datacentre": "Asia Pacific (Melbourne)",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "gkixg@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "1/11/16"
+        }
+      ]
     }
   ]
 }
